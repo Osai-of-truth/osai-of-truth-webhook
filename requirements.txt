@@ -1,3 +1,3 @@
-flask
-moviepy
-dropbox
+flask==2.0.1
+moviepy==1.0.3
+dropbox==11.26.0
